@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\AssessmentOne\bin\Debug\AssessmentOne.exe.config
+D:\Raven\Practice Exercise\C#\AssessmentOne\bin\Debug\AssessmentOne.exe
+D:\Raven\Practice Exercise\C#\AssessmentOne\bin\Debug\AssessmentOne.pdb
+D:\Raven\Practice Exercise\C#\AssessmentOne\obj\Debug\AssessmentOne.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\AssessmentOne\obj\Debug\AssessmentOne.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\AssessmentOne\obj\Debug\AssessmentOne.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\AssessmentOne\obj\Debug\AssessmentOne.exe
+D:\Raven\Practice Exercise\C#\AssessmentOne\obj\Debug\AssessmentOne.pdb
